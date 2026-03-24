@@ -72,7 +72,3 @@ sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin dock
 * **Missing Command Errors:** Ensure `dnf`, `reposync`, `createrepo`, and `tar` are in your system's PATH. 
 * **Incomplete Sync:** If the script fails during the `dnf reposync` phase, verify your bridge machine's internet connection and ensure no corporate firewalls are blocking `download.docker.com`.
 ```
-
-***
-
-Would you like me to go ahead and draft that Ansible playbook to automate the offline deployment steps (extracting the tarball and configuring the local web server) on your air-gapped network?
