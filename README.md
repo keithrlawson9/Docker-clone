@@ -1,5 +1,3 @@
-# Docker-clone
-# Docker-clone
 
 # Docker CE Offline Repository Mirror
 
